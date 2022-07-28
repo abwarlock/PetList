@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet List</string>
+    <string name="pet_image_desc">Pet Image</string>
+    <string name="pet_image_desc_details">It is Image of %s</string>
+    <string name="pet_name_desc">Pet Name</string>
+    <string name="str_error">Error</string>
+    <string name="str_error_message">The application content should only be visible during working hours.</string>
+    <string name="str_close">Close</string>
+</resources>
