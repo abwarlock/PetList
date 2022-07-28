@@ -14,4 +14,5 @@ The application has mostly three parts
     - Work hour manger hanldes time to handle screen time depending upon Configuration fetch from config.json.
     - It also register broadcast reciver on "TIME-TICK","TIME-CHANGED" and "DATE_CHAGED" events to monitor screen time.
     - To pass events from BroadcastReciver to UI EventBus lib is used.
+    - On the basis of this events Non-Cancelable diloag is displayed on Screens.
 
